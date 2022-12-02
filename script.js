@@ -33,7 +33,7 @@ curiosidades[11]=
 curiosidades[12]= 
 "O primeiro console da história foi o Magnavox Odissey, criado em 1972.";
 curiosidades[13]= 
-"A franaquia Mario e Luigi é a mais rentável da história, arrecadando aproximadamente US$34 bilhões em 2019, em segundo vem Pokemon faturando US$19 bilhões e em terceiri a franquia Call of Duty com US$18 bilhões.";
+"A franaquia Mario e Luigi é a mais rentável da história, arrecadando aproximadamente US$34 bilhões em 2019, em segundo vem Pokemon faturando US$19 bilhões e em terceiro a franquia Call of Duty com US$18 bilhões.";
 curiosidades[14]= 
 "O jogo mais vendido do Playstation 1 foi o Grand Turismo, vendendo mais de 100 milhões de cópias.";
 curiosidades[15]= 
