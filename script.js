@@ -1,7 +1,9 @@
 //  Identificação de elemento do botão//
 const button = document.getElementById('generate');
+
 // Evento de click do botão//
 button.addEventListener('click', function( ) {
+    
 // Array - coleção de informações/curiosidades//
 const curiosidades = [];
 curiosidades[0]= 
@@ -68,8 +70,5 @@ curiosidades[29]=
 //Gerador de numeros aleatórios//
 const aleatorio = Math.floor(Math.random() *29 ) + 1;
 
-alert(aleatorio);
-
 // adiciona a curiosidade no elemento
-document.getElementById("result").innerHTML = curiosidades[aleatorio];
-})
+document.getElementById("result").innerHTML = curiosidades[aleatorio];})
