@@ -27,13 +27,13 @@ curiosidades[8]=
 curiosidades[9]= 
 "O ex-presidente Barack Obama comprou espaços de propaganda em 14 jogos diferentes mostrando o seu slogan 'Vote for change', onde foram exibidos nos jogos Madden, Nascar, Burnout Paradise, Skate...";
 curiosidades[10]= 
-"Em 2020 tivemos a pandemia do Covid-19, mas o jogo World of Warcaft, em 2005, teve sua própria pandemia virtual com a atualização 1.7.0 causada por bug com o debuff Currepted Blood que se espalhava para os pets, jogadores e NPCs.";
+"Em 2020 tivemos a pandemia do Covid-19, mas o jogo World of Warcaft, em 2005, teve sua própria pandemia virtual com a atualização 1.7.0 causada por um bug com o debuff Currepted Blood que se espalhava para os pets, jogadores e NPCs.";
 curiosidades[11]= 
-"No Final Fantasy Legends 2 recebeu uma censura onde contrabandistas de ópio apareciam, mas por causa das severas políticas anti-drogas dos Estados unidos, foi exigido que os contrabandistas virassem vendedores de bananas.";
+"No Final Fantasy Legends 2 recebeu uma censura onde contrabandistas de ópio apareciam, mas por causa das severas políticas anti-drogas dos Estados Unidos, foi exigido que os contrabandistas virassem vendedores de bananas.";
 curiosidades[12]= 
 "O primeiro console da história foi o Magnavox Odissey, criado em 1972.";
 curiosidades[13]= 
-"A franaquia Mario e Luigi é a mais rentável da história, arrecadando aproximadamente US$34 bilhões em 2019, em segundo vem Pokemon faturando US$19 bilhões e em terceiri a franquia Call of Duty com US$18 bilhões.";
+"A franaquia Mario e Luigi é a mais rentável da história, arrecadando aproximadamente US$34 bilhões em 2019, em segundo vem Pokemon faturando US$19 bilhões e em terceiro a franquia Call of Duty com US$18 bilhões.";
 curiosidades[14]= 
 "O jogo mais vendido do Playstation 1 foi o Grand Turismo, vendendo mais de 100 milhões de cópias.";
 curiosidades[15]= 
