@@ -59,7 +59,7 @@ curiosidades[24]=
 curiosidades[25]=
  "O criador da franquia Resident Evil, Shinji Mikami, disse em entrevista que se o Resident Evil 4 saísse para qualquer console que não fosse o Gamecube ele cortaria sua cabeça... pouco tempo depois o jogo saiu para um port de Playstation 2.";
 curiosidades[26]=
- "Os fanboys de cada empresa de videogame são chamados, respectivamente, de baratas(Nintendo) porcos(Playstation) e tarados(Xbox).";
+ "Os fanboys de cada empresa de videogame são chamados, respectivamente, de baratas(Nintendo), porcos(Playstation) e tarados(Xbox).";
 curiosidades[27]= 
 "Em 2013 na China, um homem contratou jogadores para que matassem o avatar do seu filho para que ele parasse de jogar.";
 curiosidades[28]= 
